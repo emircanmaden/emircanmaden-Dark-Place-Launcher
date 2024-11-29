@@ -1,0 +1,49 @@
+{
+    "html": {
+        "avatarOverlay": "Düzenle"
+    },
+    "js": {
+        "login": {
+            "error": {
+                "invalidValue": "* Geçersiz değer",
+                "requiredValue": "* Gereklidir",
+                "userMigrated": {
+                    "title": "Giriş Sırasında Hata:<br>Geçersiz Kimlik Bilgileri",
+                    "desc": "Taşınan bir hesapla giriş yapmayı denediniz. Kullanıcı adı olarak hesap e-postasını kullanmayı tekrar deneyin."
+                },
+                "invalidCredentials": {
+                    "title": "Giriş Sırasında Hata:<br>Geçersiz Kimlik Bilgileri",
+                    "desc": "Girdiğiniz e-posta veya şifre yanlış. Lütfen tekrar deneyin."
+                },
+                "rateLimit": {
+                    "title": "Giriş Sırasında Hata:<br>Çok Fazla Deneme",
+                    "desc": "Son zamanlarda bu hesapla çok fazla giriş denemesi yapıldı. Lütfen daha sonra tekrar deneyiniz."
+                },
+                "noInternet": {
+                    "title": "Giriş Sırasında Hata:<br>İnternet Bağlantısı Yok",
+                    "desc": "Giriş yapabilmek için internete bağlı olmanız gerekir. Lütfen bağlanın ve tekrar deneyin."
+                },
+                "authDown": {
+                    "title": "Oturum Açma Sırasında Hata:<br>Kimlik Doğrulama Sunucusu Çevrimdışı",
+                    "desc": "Mojang'ın kimlik doğrulama sunucusu şu anda çevrimdışı veya erişilemiyor. Lütfen biraz bekleyin ve tekrar deneyin. Sunucunun durumunu adresinden kontrol edebilirsiniz.<a href=\"https://help.mojang.com/\">Mojang'ın yardım portalı</a>."
+                },
+                "notPaid": {
+                    "title": "Giriş Sırasında Hata:<br>Oyun Satın Alınmadı",
+                    "desc": "Giriş yapmaya çalıştığınız hesap Minecraft'ın bir kopyasını satın almamış.<br>Bir kopyasını şu adresten satın alabilirsiniz: <a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                },
+                "unknown": {
+                    "title": "Giriş Sırasında Hata:<br>Bilinmeyen Hata"
+                }
+            },
+            "login": "OTURUM AÇ",
+            "loggingIn": "GİRİŞ",
+            "success": "BAŞARILI",
+            "tryAgain": "Tekrar deneyin"
+        },
+        "landing": {
+            "launch": {
+                "pleaseWait": "Lütfen bekleyin.."
+            }
+        }
+    }
+}
